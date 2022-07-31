@@ -237,10 +237,9 @@ img {
 /* ---------------------------FOOTER------------------------- */
 .footer {
   background-color: #2f303a;
+  padding: 60px 0;
 }
 .footer-logo {
-  display: inline-block;
-  margin-top: 60px;
   color: var(--secondary-header-colour);
 }
 .adress {
